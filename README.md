@@ -70,6 +70,7 @@ It demonstrates full authentication flow with protected routes and HTTP-only coo
 
 ## 📂 Project Structure
 
+```plaintext
 mern-auth-system/
 │
 ├── client/                  # React frontend
@@ -92,6 +93,7 @@ mern-auth-system/
 │   └── server.js
 │
 └── README.md
+```
 
 ---
 
